@@ -1,0 +1,7 @@
+count = 0
+sen = input("Enter the sentence\t")
+letter = input("Enter the letter to find it's occurrence\t")
+for i in sen:
+    if i == letter:
+        count = count + 1
+print(count)
