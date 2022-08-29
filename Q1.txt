@@ -1,3 +1,0 @@
-Sen = input("Enter the sentence\n")
-letter = input("Enter the letter\n")
-print(Sen.replace(letter, '' ))
